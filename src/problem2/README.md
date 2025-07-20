@@ -1,4 +1,4 @@
-# Currency Swap Form (Beginner Version)
+# Currency Swap Form
 
 ## Introduction
 This is a simple app that lets you swap between different tokens/coins (like ETH, USDC, BLUR, ...) using real prices from an API. The UI is modern, easy to use, and the code is clear for anyone learning React + TypeScript.
